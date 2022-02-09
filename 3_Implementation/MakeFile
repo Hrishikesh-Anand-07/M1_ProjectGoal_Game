@@ -1,0 +1,23 @@
+game = TICTACTOE 
+SRC= src/TICTACTOE.c
+
+ifdef OS
+   RM = del /q
+   FixPath = $(subst /,\,$1)
+   EXEC = exe
+else
+   ifeq ($(shell uname), Linux)
+      RM = rm -rf
+      FixPath = $1
+	  EXEC = out
+   endif
+endif
+
+Build : $(SRC)
+	gcc $(SRC) -Iinc -o $(call FixPath,$(game).$(EXEC)) -lm
+
+Run : Build
+	./$(call FixPath,$(game).$(EXEC))
+
+Clean:
+	$(RM) $(call FixPath,*.out)
