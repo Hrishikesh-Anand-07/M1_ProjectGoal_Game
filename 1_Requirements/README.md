@@ -1,9 +1,7 @@
 # DESCRIPTION
 The tic-tac-toe game is played on a 3x3 grid the game is played by two players, who take turns. The first player marks move with a circle, the second with a cross. The player who has formed a horizontal, vertical, or diagonal sequence of three marks wins. Your program should draw the game board, ask the user for the coordinates of the next mark, change the players after every successful move, and pronounce the winner.
 
-
 # REQUIREMENTS
-
 
 ### HIGH LEVEL REQUIREMENTS
 
@@ -16,14 +14,12 @@ The tic-tac-toe game is played on a 3x3 grid the game is played by two players, 
 |HLR5|RAM 4GB|
 |HLR6|PLAYERS|
 
-
 ### LOW LEVEL REQUIREMENTS
 
 |RID|DESCRIPTION|
 |:--|:----------|
 |LLR1|2 PLAYERS REQUIRED|
 |LLR2|INPUTS REQUIRED FOR EVERY ROUND|
-
 
 # SWOT ANALYSIS
 ### STRENGTH
@@ -47,4 +43,3 @@ Advancement in technology and more competitors for game.
 •	It can be played whenever the users need relaxation.
 ## Where
 •	As it is a game and not restricted to any people. 
-
