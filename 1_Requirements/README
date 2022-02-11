@@ -6,13 +6,13 @@ The tic-tac-toe game is played on a 3x3 grid the game is played by two players, 
 REQUIREMENTS:
 
 HIGH LEVEL REQUIREMENTS:
-HR01	Choose the game TIC-TAC-TOE	Implemented
-HR02	Player 1	                Implemented
-HR03	Player 2	                Implemented
-HR04	Wishes to continue or exits	Not Implemented
+HR01	Choose the game TIC-TAC-TOE	 Implemented
+HR02	Player 1	                   Implemented
+HR03	Player 2	                   Implemented
+HR04	Wishes to continue or exits	 Implemented
 
 LOW LEVEL REQUIREMENTS:
-LR01	Must be 2-Players	         Implemented
+LR01	Must be 2-Players	               Implemented
 LR02	Inputs Required for every round	 Implemented
 
 
