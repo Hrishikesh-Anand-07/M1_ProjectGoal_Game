@@ -5,7 +5,7 @@ The tic-tac-toe game is played on a 3x3 grid the game is played by two players, 
 # REQUIREMENTS:
 
 
-**HIGH LEVEL REQUIREMENTS:
+### HIGH LEVEL REQUIREMENTS:
 
 |HLR1|C LANGUAGE|
 |HLR2|OS WINDOWS|
@@ -14,7 +14,7 @@ The tic-tac-toe game is played on a 3x3 grid the game is played by two players, 
 |HLR5|RAM 4GB|
 |HLR6|PLAYERS|
 
-**LOW LEVEL REQUIREMENTS:
+### LOW LEVEL REQUIREMENTS:
 
 |LLR1|2 PLAYERS REQUIRED|
 |LLR2|INPUT REQUIRED FOR EVERY ROUND|
