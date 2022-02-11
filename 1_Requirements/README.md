@@ -22,15 +22,15 @@ The tic-tac-toe game is played on a 3x3 grid the game is played by two players, 
 |LLR2|INPUTS REQUIRED FOR EVERY ROUND|
 
 # SWOT ANALYSIS
-### STRENGTH
+## STRENGTH
 It can be easily targeted for gamers.
-### WEAKNESS
+## WEAKNESS
 Graphics can be improved.
 Also, code can be done better by increasing the number of grids like 4x4 etc.
 Currently it is a 2-player game, Computer Generated player should be added.  
-### OPPORTUNITIES
+## OPPORTUNITIES
 Increasing graphics quality and board we can reach the customers easily and also the difficulties.
-### THREATNESS
+## THREATNESS
 Other similar games.
 Advancement in technology and more competitors for game.
 
