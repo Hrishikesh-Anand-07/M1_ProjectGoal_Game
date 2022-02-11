@@ -1,5 +1,5 @@
 game = TICTACTOE 
-SRC= src/TICTACTOE.c
+SRC= src/TICTACTOE.c src/board.c src/check.c 
 
 ifdef OS
    RM = del /q
